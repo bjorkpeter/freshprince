@@ -1,0 +1,17 @@
+h1 {
+	color: red;
+}
+
+body {
+	background-color: #E5FFE5;
+}
+
+.header {
+	text-align: center;
+	font-family: Georgia;
+}
+
+.poop {
+	text-align: left;
+	font: bold 18px Arial;
+}
